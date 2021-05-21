@@ -97,6 +97,6 @@ public enum NetworkId {
     BRAZIL,
     
     //Lithuania
-    VILNIUS,
+    VILNIUS
     
 }
